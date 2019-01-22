@@ -20,27 +20,27 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  title = "Neural Networks and Deep Learning"
-  organization = "Coursera"
+  title = "Selected for Udacity PyTorch Scholarship Challenge"
+  organization = "Udacity"
   certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
-  date_end = ""
-  description = ""
+  date_start = "2018-12-23"
+  date_end = "2019-01-23"
+  description = "FAIR and PyTorch in collaboration with Udacity, launched a scholarship challenge, for which Varun was selected. He has, since, learnt to implement all kinds of Deep Learning architectures in PyTorch from simple MLPs to style transfer networks."
 
 [[item]]
-  title = "Blockchain Fundamentals"
-  organization = "edX"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
+  title = "Exsequor"
+  organization = "Robotics Club SIES GST"
+  certificate_url = ""
+  date_start = "2013-10-15"
   date_end = ""
-  description = ""
+  description = "1st place in College level robotics competition using IIT Bombay's ARM based robotics platform Firebird V"
   
 [[item]]
-  title = "Intro to Python"
-  organization = "DataCamp"
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
+  title = "E-Yantra Symposium"
+  organization = "e-Yantra"
+  certificate_url = ""
+  date_start = "2014-01-25"
+  date_end = ""
+  description = "5th place in the national level robotics symposium organized by IIT Bombay."
 
 +++
