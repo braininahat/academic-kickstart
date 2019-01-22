@@ -22,7 +22,7 @@ date_format = "Jan 2006"
 [[item]]
   title = "Selected for Udacity PyTorch Scholarship Challenge"
   organization = "Udacity"
-  certificate_url = "https://www.coursera.org"
+  certificate_url = ""
   date_start = "2018-12-23"
   date_end = "2019-01-23"
   description = "FAIR and PyTorch in collaboration with Udacity, launched a scholarship challenge, for which Varun was selected. He has, since, learnt to implement all kinds of Deep Learning architectures in PyTorch from simple MLPs to style transfer networks."
