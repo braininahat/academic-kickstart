@@ -30,7 +30,7 @@ weight = 7
 [[feature]]
   icon = "eye"
   icon_pack = "fas"
-  name = "Computer Vision and Image Processing"
+  name = "Computer Vision"
   description = "Up-to-date"  
   
 [[feature]]
