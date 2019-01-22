@@ -81,4 +81,4 @@ interests = [
 
 +++
 
-Varun Shijo is a student of computer Science at the University at Buffalo. His research interests include Robotics, Deep Learning, Computer Vision, and Cyberphysical Systems.
+Varun Shijo is a student of Computer Science at the University at Buffalo. His research interests include Robotics, Deep Learning, Computer Vision, and Cyberphysical Systems.
