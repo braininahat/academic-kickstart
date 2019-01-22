@@ -57,14 +57,20 @@ interests = [
 #   Full list: https://jpswalsh.github.io/academicons/
 
 [[social]]
-  icon = "envelope"
-  icon_pack = "fas"
-  link = "#contact"  # For a direct email link, use "mailto:varunshi@buffalo.edu".
-
-[[social]]
   icon = "github"
   icon_pack = "fab"
   link = "https://github.com/braininahat"
+
+[[social]]
+  icon = "linkedin"
+  icon_pack = "fab"
+  link = "https://linkedin.com/in/varunshijo"
+
+[[social]]
+  icon = "envelope"
+  icon_pack = "fas"
+  link = "mailto:varunshi@buffalo.edu"
+
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
