@@ -25,18 +25,18 @@ weight = 7
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = "90%"
+  description = "Proficient"
   
 [[feature]]
   icon = "eye"
   icon_pack = "fas"
   name = "Computer Vision and Image Processing"
-  description = "75%"  
+  description = "Up-to-date"  
   
 [[feature]]
   icon = "brain"
   icon_pack = "fas"
   name = "Neural Networks"
-  description = "70%"
+  description = "Competent in PyTorch/Keras+TensorFlow"
 
 +++
